@@ -9,5 +9,6 @@ This repository contains the my learning notes of UPF command and the example de
 The main purpose of UPF is to save the static power consumption (leakage) of the design. 
 
 ### Definition and Purpose of each power policy
-1.  Isolation Cell 
-    => 
+<ins>1. Isolation Cell</ins> 
+    Ensure the output of the power off (CORRUPT) domain does not propagate unknown signal to the rest of the design. Instead, it will clamp a constant value (0 or 1) to substitute the corrupted output.  
+    
