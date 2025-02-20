@@ -8,6 +8,6 @@ This repository contains the my learning notes of UPF command and the example de
 
 The main purpose of UPF is to save the static power consumption (leakage) of the design. 
 
-###<ins>Definition and Purpose of each power policy</ins>
+### <ins>Definition and Purpose of each power policy</ins>
 1.  Isolation Cell 
     => 
