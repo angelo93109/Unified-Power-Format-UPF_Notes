@@ -1,4 +1,4 @@
-Three Crucial Elememts of UPF
+# Three Crucial Elememts of UPF
 1. Power Network (e.g. port, net, connection)
 2. Power Policy (e.g. Isolation, Retention, Power Switch, Level Shifter, Always-ON)
 3. Power State (PST)
