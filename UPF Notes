@@ -5,6 +5,6 @@ Three Crucial Elememts of UPF
 
 The main purpose of UPF is to save the static power consumption (leakage) of the design. 
 
-Definition and Purpose of each power policy
+<ins> Definition and Purpose of each power policy </ins>
 1.  Isolation Cell 
     => 
